@@ -1,3 +1,3 @@
 # documentation-en
 
-Please check the wiki documentation
+https://github.com/invault-space/documentation-en/wiki
